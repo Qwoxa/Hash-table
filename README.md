@@ -14,3 +14,7 @@ ht.getElement('name'); // 'Nick'
 // change the value of name
 ht.setElement('name', 'Jogn'); // ['name', 'John']
 ```
+
+# Materials
+The video about hash tables
+https://www.youtube.com/watch?v=QY_b2r_a7bs&list=PLoQK7dmdVak1Ojp4QLut-7x-ALfCqGVAr&index=4&t=714s
