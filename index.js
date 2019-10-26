@@ -30,6 +30,8 @@ class HashTable {
         this._store[index].push([key, value]);
       }
     }
+
+    return [key, value];
   }
 
   getElement(key) {
